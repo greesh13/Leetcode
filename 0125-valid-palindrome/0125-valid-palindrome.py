@@ -10,7 +10,8 @@ class Solution:
 
 
 
-
+#cleaning text clean=re.sub(r'[^a-zA-Z0-9],'',new)
+    
             
             
             
